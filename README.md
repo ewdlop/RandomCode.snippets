@@ -1,5 +1,10 @@
 # RandomCode.snippets
 QWERTY
+
+# Widgets
+
+A lot of games even these days still look like Windows Widget.
+
 # GLua
 
 以下是您提供的内容中修正后的实际链接：
