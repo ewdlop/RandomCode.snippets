@@ -1,2 +1,2 @@
 
-is-eed-ead-peo-ple instructions registers
+is-eed-ead-peo-ple instructions
