@@ -1,0 +1,2 @@
+128Mb
+Pentium4
